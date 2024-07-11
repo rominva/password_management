@@ -1,6 +1,7 @@
-# 1) add new passwords
-# 2) view password
-# 3) quit
+# << PSSWORD MANAGEMENT >>
+# 1) modes: view, add, quit
+# 2) add new passwords (in a .txt)
+# 3) view password
 # 4) encrypt passwords
 # 5) decrypt password
 
